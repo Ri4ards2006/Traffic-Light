@@ -1,0 +1,2 @@
+# Traffic-Light
+ A Kotlin-based traffic light simulation designed to mimic the complex intersection of Saarbrücken. The project includes:      4 vehicle traffic lights     8 pedestrian traffic lights     4 ultrasonic sensors to detect movement.  Each traffic light uses three LEDs (red, yellow, green) for intuitive visualization. The system is modeled to simulate real-world traffic scenarios and is intended for use in an Android app.
