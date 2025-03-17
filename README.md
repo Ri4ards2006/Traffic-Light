@@ -73,8 +73,8 @@ This project simulates a realistic intersection with multiple traffic lights and
 
 1. **Clone the Repository:**
    ```bash
-  git clone https://github.com/Ri4ards2006/Traffic-Light.git
-   ```
+   git clone https://github.com/Ri4ards2006/Traffic-Light.git
+ 
 
 2. **Prepare Hardware:**
    - Connect traffic lights, sensors, and buttons to the Arduino Mega 2560. Refer to the circuit diagram in the `docs/` folder.
