@@ -73,7 +73,7 @@ This project simulates a realistic intersection with multiple traffic lights and
 
 1. **Clone the Repository:**
    ```bash
-  [ git clone https://github.com/your-username/traffic-light-simulation-arduino.git](https://github.com/Ri4ards2006/Traffic-Light.git)
+  git clone https://github.com/Ri4ards2006/Traffic-Light.git
    ```
 
 2. **Prepare Hardware:**
