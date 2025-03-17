@@ -1,0 +1,31 @@
+{
+"$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+ "name":"ExtendedTouchEvent",
+ "version":"2.0.1",
+ "description":"Eventmanager for touchscreens with XPT2046 controlerchip which detects the events click, double click, long click, wipe, touch down, touch up and draw. On any of these events a callback function can be registered.",
+ "keywords": [ "Display", "tft", "touchscreen" ],
+ "repository": {
+    "type": "git",
+    "url": "https://gitlab.com/arduino23/ExtendedTouchEvent.git"
+  },
+  "authors": {
+    "name": "arduhe"
+  },
+  "dependencies":
+  [
+    {
+        "name": "XPT2046_Touchscreen",
+        "version": "0.0.0-alpha+sha.26b691b2c8"
+    },
+    {
+        "name": "Adafruit GFX Library",
+        "version": "^1.16.1"
+    },
+    {
+        "name": "Adafruit BusIO",
+        "version": "^1.16.1"
+    }
+  ],
+  "license": "GPL-3.0-or-later"
+
+}
